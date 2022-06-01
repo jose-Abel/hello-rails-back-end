@@ -74,12 +74,6 @@ To run the Rails Rubocop rules, type the following
     rubocop
 ```
 
-To run the CSS linters type the following
-
-```
-    npx stylelint "**/*.{css,scss}"
-```
-
 ## Author: Jose Abel Ramirez Frontany\*\*
 
 - GitHub: [Jose Abel Ramirez Frontany](https://github.com/jose-Abel)
